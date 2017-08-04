@@ -23,10 +23,10 @@ So we're searching for:
 - **Proofers**, contributors who can help us polish a chapter of the book
 - **Connectors**, contributors who can point us in the direction of great open organization stories we might cover and include in the book
 
-Want to play one or more of these important roles? Check the book's existing table of contents, then do any of the following:
+Want to play one or more of these important roles? Check the book's [existing table of contents](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_toc.md), then do any of the following:
 
-- Open a new issue in this project repository and outline the work you think needs to be done
-- Select an already open issue in this repository and assign yourself to it
+- Open a [new issue](https://github.com/open-organization-ambassadors/open-org-workbook/issues) in this project repository and outline the work you think needs to be done
+- Select an already [open issue](https://github.com/open-organization-ambassadors/open-org-workbook/issues) in this repository and assign yourself to it
 - Send an email to <bbehrens@redhat.com> to learn more about pitching in
 
 ## Project Timeline
