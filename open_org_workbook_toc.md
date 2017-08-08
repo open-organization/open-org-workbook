@@ -38,9 +38,9 @@
 ## Unit 4: Collaboration
 
 - Introduction: 
+- Case study: Telia Co. (enhancing collaboration with agile methods)—Jimmy Sjölund
 - Case study: 
-- Case study: 
-- Exercise: Locating indicators of effetive collaboration—Ron McFarland
+- Exercise: Locating indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 
 ## Unit 5: Community
@@ -48,6 +48,7 @@
 - Introduction: 
 - Case study: Slalom (scaling open culture while growing)—Jen Kelchner
 - Case study: Roam (creating community through co-working)—Jen Kelchner
+- Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
 - Case study: 
 - Exercise: 
 - Exercise: 
