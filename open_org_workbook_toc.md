@@ -13,7 +13,7 @@
 
 ## Unit 1: Transparency
 
-- Introduction:
+- Introduction: What is transparency and why is it important?—Phil Foster
 - Case study: 
 - Case study: 
 - Exercise: 
