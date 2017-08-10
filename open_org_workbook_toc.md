@@ -38,8 +38,8 @@
 ## Unit 4: Collaboration
 
 - Introduction: 
-- Case study: Telia Co. (enhancing collaboration with agile methods)—Jimmy Sjölund
-- Case study: 
+- Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
+- Case study: mestasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Exercise: Locating indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 
