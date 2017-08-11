@@ -12,7 +12,7 @@ Want to connect with an organization already on the list and compose a relevant 
 
 ## List of organizations
 
-- Buffer [[relevant story]] (https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic
+- Buffer [[relevant story]](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic
 - Code for America—@jhibbets
 - Dell EMC—@semioticrobotic
 - eZ Systems—@robinmuilwijk
@@ -25,7 +25,7 @@ Want to connect with an organization already on the list and compose a relevant 
 - Microsoft—@semioticrobotic
 - Reaction Commerce [[relevant story]] (https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
 - Roam [[relevant story]](http://ldr21.com/ep4-curating-community-with-coworking-roam/)—@jenkelchner
-- Slalom [[relevant story]] (https://opensource.com/open-organization/17/1/proof-openness-scales)—@jenkelchner
+- Slalom [[relevant story]](https://opensource.com/open-organization/17/1/proof-openness-scales)—@jenkelchner
 
 ## Framework for case studies
 
