@@ -23,7 +23,7 @@ Want to connect with an organization already on the list and compose a relevant 
 - metasfresh—@semioticrobotic
 - Lincoln Loop—@semioticrobotic
 - Microsoft—@semioticrobotic
-- Reaction Commerce [[relevant story]] (https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
+- Reaction Commerce [[relevant story]](https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
 - Roam [[relevant story]](http://ldr21.com/ep4-curating-community-with-coworking-roam/)—@jenkelchner
 - Slalom [[relevant story]](https://opensource.com/open-organization/17/1/proof-openness-scales)—@jenkelchner
 
