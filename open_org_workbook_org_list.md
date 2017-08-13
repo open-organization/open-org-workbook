@@ -12,7 +12,7 @@ Want to connect with an organization already on the list and compose a relevant 
 
 ## List of organizations
 
-- Buffer [[relevant story]](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic
+- Buffer [[relevant story]](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic and @maximumchange
 - Code for America—@jhibbets
 - Dell EMC [[relevant story]](https://opensource.com/open-organization/17/7/communicate-teams-tips)—@semioticrobotic
 - eZ Systems—@robinmuilwijk
