@@ -14,22 +14,22 @@ Want to connect with an organization already on the list and compose a relevant 
 
 - Buffer [[relevant story]](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic and @maximumchange
 - Code for America—@jhibbets
-– Creative Commons-@laurahilliger
+– Creative Commons
 - Dell EMC [[relevant story]](https://opensource.com/open-organization/17/7/communicate-teams-tips)—@semioticrobotic
 - eZ Systems—@robinmuilwijk
 - Facebook—@jhibbets
 - GE—@jhibbets
 - Google—@jhibbets
-– Greenpeace-@laurahilliger
+– Greenpeace
 - Linux Foundation—@semioticrobotic
 - metasfresh—@semioticrobotic
 - Lincoln Loop [[relevant story]](https://opensource.com/open-organization/17/7/lincoln-loop-trust)—@semioticrobotic
 - Microsoft—@semioticrobotic
-– Mozilla-@laurahilliger
+– Mozilla
 - Reaction Commerce [[relevant story]](https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
 - Roam [[relevant story]](http://ldr21.com/ep4-curating-community-with-coworking-roam/)—@jenkelchner
 - Slalom [[relevant story]](https://opensource.com/open-organization/17/1/proof-openness-scales)—@jenkelchner
-– Wikipedia-@laurahilliger
+– Wikipedia
 
 ## Framework for case studies
 Each case study should profile the organization with:
