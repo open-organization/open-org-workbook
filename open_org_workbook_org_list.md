@@ -19,18 +19,20 @@ Want to connect with an organization already on the list and compose a relevant 
 - eZ Systems—@robinmuilwijk
 - Facebook—@jhibbets
 - GE—@jhibbets
-- GitHub
+- GitHub—@jhibbets
 - Google—@jhibbets
 – Greenpeace—@laurahilliger
 - Linux Foundation—@semioticrobotic
 - metasfresh—@semioticrobotic
 - Lincoln Loop [[relevant story]](https://opensource.com/open-organization/17/7/lincoln-loop-trust)—@semioticrobotic
 - Microsoft—@semioticrobotic
-– Mozilla
+– Mozilla—@semioticrobotic
 - Reaction Commerce [[relevant story]](https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
 - Roam [[relevant story]](http://ldr21.com/ep4-curating-community-with-coworking-roam/)—@jenkelchner
 - Slalom [[relevant story]](https://opensource.com/open-organization/17/1/proof-openness-scales)—@jenkelchner
+- TODO Group—@jhibbets
 – Wikipedia
+- Yahoo!—@jhibbets
 
 ## Framework for case studies
 Each case study should profile the organization with:
