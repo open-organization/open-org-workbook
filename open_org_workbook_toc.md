@@ -14,7 +14,7 @@
 ## Unit 1: Transparency
 
 - Introduction: What is transparency and why is it important?—Phil Foster
-- Case study: Buffer (TBD)—Hailley Griffis
+- Case study: Buffer (topic TBD)—Hailley Griffis
 - Case study: 
 - Exercise: 
 - Exercise: 
@@ -23,7 +23,7 @@
 
 - Introduction:
 - Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander
-- Case study: Mozilla (diversity and inclusion initiatives)—Emma Irwin
+- Case study: Mozilla (diversity and inclusion research)—Emma Irwin
 - Case study: 
 - Exercise: 
 - Exercise: Identifying and working with open source personality types—Laura Hilliger

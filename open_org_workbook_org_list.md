@@ -19,8 +19,9 @@ Want to connect with an organization already on the list and compose a relevant 
 - eZ Systems—@robinmuilwijk
 - Facebook—@jhibbets
 - GE—@jhibbets
+- GitHub
 - Google—@jhibbets
-– Greenpeace
+– Greenpeace—@laurahilliger
 - Linux Foundation—@semioticrobotic
 - metasfresh—@semioticrobotic
 - Lincoln Loop [[relevant story]](https://opensource.com/open-organization/17/7/lincoln-loop-trust)—@semioticrobotic
