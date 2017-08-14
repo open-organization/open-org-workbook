@@ -15,7 +15,7 @@
 
 - Introduction: What is transparency and why is it important?—Phil Foster
 - Case study: Buffer (topic TBD)—Hailley Griffis
-- Case study: 
+- Case study: Culture First, Tools Last (How Autodesk Uses Slack to Increase Transparency)-Guy Martin
 - Exercise: 
 - Exercise: 
 
