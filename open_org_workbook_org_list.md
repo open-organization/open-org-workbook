@@ -14,14 +14,14 @@ Want to connect with an organization already on the list and compose a relevant 
 
 - Accenture—@semioticrobotic
 - Buffer [[relevant story]](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic and @maximumchange
-- Code for America—@jhibbets
+- Code for America—@jhibbets (sent invite)
 - Creative Commons
 - Dell EMC [[relevant story]](https://opensource.com/open-organization/17/7/communicate-teams-tips)—@semioticrobotic
 - eZ Systems—@robinmuilwijk
-- Facebook—@jhibbets
+- Facebook—@jhibbets (sent invite)
 - GE—@jhibbets
-- GitHub—@jhibbets
-- Google—@jhibbets
+- GitHub—@jhibbets (sent invite)
+- Google—@jhibbets (sent invite)
 - Greenpeace—@laurahilliger
 - Harvard University–@pdurbin
 - Linux Foundation—@semioticrobotic
@@ -33,10 +33,12 @@ Want to connect with an organization already on the list and compose a relevant 
 - Roam [[relevant story]](http://ldr21.com/ep4-curating-community-with-coworking-roam/)—@jenkelchner
 - Slalom [[relevant story]](https://opensource.com/open-organization/17/1/proof-openness-scales)—@jenkelchner
 - Wikipedia
-- Yahoo!
+- Yahoo!—@jhibbets (sent invite)
 
 ## Framework for case studies
+
 Each case study should profile the organization with:
+
 - Number of employees
 - Description of company
 - Assessment of "open" (e.g. Does the organization use the language of open source in some way? Where do we think they fall on the Maturity Model)
