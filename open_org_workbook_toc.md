@@ -15,7 +15,8 @@
 
 - Introduction: What is transparency and why is it important?—Phil Foster
 - Case study: Buffer (topic TBD)—Hailley Griffis
-- Case study: 
+- Case study: Harvard University Institute for Qualitative Social Science (transparent data for better research)—Philip Durbin
+- Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
 - Exercise: 
 - Exercise: 
 
@@ -31,7 +32,7 @@
 ## Unit 3: Adaptability
 
 - Introduction: 
-- Case study: 
+- Case study: Accenture (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: 
 - Exercise:
 - Exercise: 
