@@ -16,7 +16,7 @@ Want to connect with an organization already on the list and compose a relevant 
 - Buffer [[relevant story]](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic and @maximumchange
 - Code for America—@jhibbets (sent invite)
 - Creative Commons
-- Dell EMC [[relevant story]](https://opensource.com/open-organization/17/7/communicate-teams-tips)—@semioticrobotic
+- Dell EMC [[relevant story]](https://opensource.com/open-organization/17/7/communicate-teams-tips)—@jonasrosland
 - eZ Systems—@robinmuilwijk
 - Facebook—@jhibbets (sent invite)
 - GE—@jhibbets
@@ -47,4 +47,4 @@ Each case study should answer (at minimum) the following questions:
 
 - What was the **problem** the organization was facing?
 - What **solution**, based on principles from the [Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition), did it implement to solve this problem?
-- What was **outcome** of this work?
+- What was the **outcome** of this work?

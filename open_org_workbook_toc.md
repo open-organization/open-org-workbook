@@ -9,7 +9,7 @@
 
 - The Open Organization Definition—The Open Organization Ambassadors
 - The Open Organization Maturity Model—The Open Organization Ambassadors
-- Enacting change management at scale—Brook Manville and Jen Kelchner
+- Enacting change management at scale—Jen Kelchner and Sam Knuth 
 
 ## Unit 1: Transparency
 
@@ -34,7 +34,7 @@
 - Introduction: 
 - Case study: Accenture (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: 
-- Exercise:
+- Exercise: Discovering daptability profiles—Jen Kelchner
 - Exercise: 
 
 ## Unit 4: Collaboration
