@@ -22,7 +22,7 @@
 
 ## Unit 2: Inclusivity
 
-- Introduction:
+- Introduction: What is inclusivity and why is it important?—Flavio Percoco Premoli
 - Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander
 - Case study: Mozilla (initiating diversity and inclusion research)—Emma Irwin
 - Case study: 
