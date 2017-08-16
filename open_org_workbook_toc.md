@@ -34,7 +34,7 @@
 - Introduction: 
 - Case study: Accenture (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: 
-- Exercise: Discovering daptability profiles—Jen Kelchner
+- Exercise: Discovering adaptability profiles—Jen Kelchner
 - Exercise: 
 
 ## Unit 4: Collaboration
