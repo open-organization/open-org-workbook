@@ -43,12 +43,14 @@
 - Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
 - Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
+- Case study: 
 - Exercise: Locating indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
+- Exercise: 
 
 ## Unit 5: Community
 
-- Introduction: 
+- Introduction: What is community and why is it important?—Heidi Hess von Ludewig
 - Case study: Slalom (scaling open culture while growing)—Jen Kelchner
 - Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
