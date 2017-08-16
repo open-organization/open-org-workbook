@@ -24,7 +24,7 @@
 
 - Introduction:
 - Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander
-- Case study: Mozilla (diversity and inclusion research)—Emma Irwin
+- Case study: Mozilla (initiating diversity and inclusion research)—Emma Irwin
 - Case study: 
 - Exercise: 
 - Exercise: Identifying and working with open source personality types—Laura Hilliger
@@ -42,7 +42,7 @@
 - Introduction: 
 - Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
 - Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
-- Case study: 
+- Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
 - Exercise: Locating indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 
