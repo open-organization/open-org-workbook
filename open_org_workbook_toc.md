@@ -26,8 +26,8 @@
 - Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander
 - Case study: Mozilla (initiating diversity and inclusion research)—Emma Irwin
 - Case study: 
-- Exercise: 
-- Exercise: Identifying and working with open source personality types—Laura Hilliger
+- Exercise: Creating your Bias Defense Checklist—Yev Bronshteyn
+- Exercise: Surfacing power relations through a privilege walk—Laura Hilliger
 
 ## Unit 3: Adaptability
 
@@ -44,7 +44,7 @@
 - Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
 - Case study: 
-- Exercise: Locating indicators of effective collaboration—Ron McFarland
+- Exercise: Identifying indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: 
 
@@ -55,5 +55,5 @@
 - Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
 - Case study: 
-- Exercise: 
+- Exercise: Buidling an effective mentoring network—Michael Costello
 - Exercise: 

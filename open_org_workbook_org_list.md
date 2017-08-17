@@ -13,10 +13,12 @@ Want to connect with an organization already on the list and compose a relevant 
 ## List of organizations
 
 - Accenture—@semioticrobotic
+- Autodesk—@guywmartin
 - Buffer [[relevant story]](https://opensource.com/open-organization/16/3/social-startup-buffer-transparency-reigns)—@semioticrobotic and @maximumchange
 - Code for America—@jhibbets (sent invite)
 - Creative Commons
 - Dell EMC [[relevant story]](https://opensource.com/open-organization/17/7/communicate-teams-tips)—@jonasrosland
+- Discourse—@semioticrobotic
 - eZ Systems—@robinmuilwijk
 - Facebook—@jhibbets (sent invite)
 - GE—@jhibbets
@@ -37,14 +39,23 @@ Want to connect with an organization already on the list and compose a relevant 
 
 ## Framework for case studies
 
-Each case study should profile the organization with:
+Each **case study** should include specific organizational data such as:
 
+- Company name
 - Number of employees
-- Description of company
-- Assessment of "open" (e.g. Does the organization use the language of open source in some way? Where do we think they fall on the Maturity Model)
+- Description of company (products/goals/mission)
+- Identification of "open" principles at work (e.g. Does the organization use the language of open source in some way? Where do we think they fall on the Maturity Model)
 
 Each case study should answer (at minimum) the following questions:
 
 - What was the **problem** the organization was facing?
 - What **solution**, based on principles from the [Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition), did it implement to solve this problem?
 - What was the **outcome** of this work?
+
+## Framework for exercises
+
+Each **exercise** should include specific implementation details such as:
+
+- Estimated time to complete (e.g., 30 minutes, 4 months, etc.)
+- Skill level (e.g., Beginner, Intermediate, Adavanced)
+- Target behaviors (e.g., selected behavioral language from the Maturity Model)
