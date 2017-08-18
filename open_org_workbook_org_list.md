@@ -29,6 +29,7 @@ Want to connect with an organization already on the list and compose a relevant 
 - Linux Foundation—@semioticrobotic
 - metasfresh—@semioticrobotic
 - Lincoln Loop [[relevant story]](https://opensource.com/open-organization/17/7/lincoln-loop-trust)—@semioticrobotic
+- MailChimp [[relevant story]](https://blog.mailchimp.com/uncovering-the-secret-powers-of-mailchimp-employees-through-apprenticeships/)—@semioticrobotic
 - Microsoft—@arob98
 - Mozilla—@semioticrobotic
 - Reaction Commerce [[relevant story]](https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
