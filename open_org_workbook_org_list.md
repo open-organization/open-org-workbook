@@ -18,7 +18,7 @@ Want to connect with an organization already on the list and compose a relevant 
 - Code for America—@jhibbets (sent invite)
 - Creative Commons
 - Dell EMC [[relevant story]](https://opensource.com/open-organization/17/7/communicate-teams-tips)—@jonasrosland
-- Discourse—@semioticrobotic
+- Discourse [[relevant story]](https://blog.codinghorror.com/complaint-driven-development/)—@semioticrobotic
 - eZ Systems—@robinmuilwijk
 - Facebook—@jhibbets (sent invite)
 - GE—@jhibbets
@@ -33,8 +33,10 @@ Want to connect with an organization already on the list and compose a relevant 
 - Microsoft—@arob98
 - Mozilla—@semioticrobotic
 - Reaction Commerce [[relevant story]](https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
+- Red Hat—@ruhbehka
 - Roam [[relevant story]](http://ldr21.com/ep4-curating-community-with-coworking-roam/)—@jenkelchner
 - Slalom [[relevant story]](https://opensource.com/open-organization/17/1/proof-openness-scales)—@jenkelchner
+- Wikimedia
 - Wikipedia
 - Yahoo!—@jhibbets (sent invite)
 
