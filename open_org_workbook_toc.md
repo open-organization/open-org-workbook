@@ -44,7 +44,7 @@
 - Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
 - Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
-- Case study: Demonstrating commitment to openness (Microsoft) - Angela Robertson
+- Case study: Microsoft (Demonstrating commitment to openness—Angela Robertson
 - Exercise: Identifying indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: 
