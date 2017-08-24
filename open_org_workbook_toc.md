@@ -15,7 +15,7 @@
 
 - Introduction: What is transparency and why is it important?—Phil Foster
 - Case study: Buffer (topic TBD)—Jordan Morgan
-- Case study: Harvard University Dataverse project (running a project transaprently for better research outcomes)—Philip Durbin
+- Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
 - Exercise: 
 - Exercise: 
