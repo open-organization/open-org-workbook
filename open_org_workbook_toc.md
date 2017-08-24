@@ -7,9 +7,8 @@
 
 ## Getting Started
 
-- The Open Organization Definition—The Open Organization Ambassadors
-- The Open Organization Maturity Model—The Open Organization Ambassadors
-- Enacting change management at scale—Jen Kelchner and Sam Knuth 
+- Enacting change management at scale—Jen Kelchner and Sam Knuth
+- The value of participatory exercises—Laura Hilliger
 
 ## Unit 1: Transparency
 
