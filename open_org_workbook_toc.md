@@ -12,7 +12,7 @@
 
 ## Unit 1: Transparency
 
-- Introduction: What is transparency and why is it important?—Phil Foster
+- Introduction: What is transparency?—Phil Foster
 - Case study: Buffer (topic TBD)—Jordan Morgan
 - Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
@@ -21,7 +21,7 @@
 
 ## Unit 2: Inclusivity
 
-- Introduction: What is inclusivity and why is it important?—Flavio Percoco Premoli
+- Introduction: What is inclusivity?—Flavio Percoco Premoli
 - Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander
 - Case study: Mozilla (initiating diversity and inclusion research)—Emma Irwin
 - Case study: 
@@ -39,7 +39,7 @@
 
 ## Unit 4: Collaboration
 
-- Introduction: 
+- Introduction: What is collaboration?—Heidi Hess von Ludewig
 - Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
 - Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
@@ -51,10 +51,15 @@
 
 ## Unit 5: Community
 
-- Introduction: What is community and why is it important?—Heidi Hess von Ludewig
+- Introduction: What is community?—Heidi Hess von Ludewig
 - Case study: Slalom (scaling open culture while growing)—Jen Kelchner
 - Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
-- Case study: 
+- Case study: OpenStreetMap (creating global community)—Heather Leson and Kate Chapman
 - Exercise: Buidling an effective mentoring network—Michael Costello
 - Exercise: 
+
+## Appendix
+
+- The Open Organization Definition—Open Organization Ambassadors
+- The Open Organization Maturity Model—Open Organization Ambassadors

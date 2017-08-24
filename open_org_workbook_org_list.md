@@ -32,6 +32,7 @@ Want to connect with an organization already on the list and compose a relevant 
 - MailChimp [[relevant story]](https://blog.mailchimp.com/uncovering-the-secret-powers-of-mailchimp-employees-through-apprenticeships/)—@semioticrobotic
 - Microsoft—@arob98
 - Mozilla—@semioticrobotic
+- OpenStreetMap—@heatherleson and wonderchook
 - Reaction Commerce [[relevant story]](https://blog.reactioncommerce.com/lessons-learned-open-source-as-a-full-time-job/)—@semioticrobotic
 - Red Hat—@ruhbehka
 - Roam [[relevant story]](http://ldr21.com/ep4-curating-community-with-coworking-roam/)—@jenkelchner
