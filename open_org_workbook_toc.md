@@ -14,7 +14,7 @@
 ## Unit 1: Transparency
 
 - Introduction: What is transparency and why is it important?—Phil Foster
-- Case study: Buffer (topic TBD)—Hailley Griffis
+- Case study: Buffer (topic TBD)—Jordan Morgan
 - Case study: Harvard University Dataverse project (running a project transaprently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
 - Exercise: 
@@ -32,9 +32,9 @@
 ## Unit 3: Adaptability
 
 - Introduction: 
-- Case study: Red Hat and Accenture (adaptable approaches to consulting)—Dereck Vanlandingham
+- Case study: Accenture and Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: Discourse (better feedback through complaint-driven development)—Erlend Sogge Heggen
-- Case study: 
+- Case study: Red Hat (enhancing agility by fostering trusting relationships)—Deven Phillips
 - Exercise: Discovering adaptability profiles—Jen Kelchner
 - Exercise: 
 
