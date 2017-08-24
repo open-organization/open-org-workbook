@@ -45,6 +45,7 @@
 - Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
 - Case study: Microsoft (Demonstrating commitment to openness—Angela Robertson
+- Red Hat: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - Exercise: Identifying indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: 
