@@ -16,7 +16,7 @@
 - Case study: Buffer (topic TBD)—Jordan Morgan
 - Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
-- Exercise: 
+- Exercise: {TBD}—MaryJo Burchard
 - Exercise: 
 
 ## Unit 2: Inclusivity
@@ -44,7 +44,7 @@
 - Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
 - Case study: Microsoft (Demonstrating commitment to openness—Angela Robertson
-- Red Hat: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
+- Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - Exercise: Identifying indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: 
@@ -56,6 +56,7 @@
 - Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
 - Case study: OpenStreetMap (creating global community)—Heather Leson and Kate Chapman
+- Case study: CodeforAmerica (mobilizing volunteers and inspiring public servants)—Zoe Blumenfeld
 - Exercise: Buidling an effective mentoring network—Michael Costello
 - Exercise: 
 
