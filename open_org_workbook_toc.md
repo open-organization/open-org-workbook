@@ -13,18 +13,18 @@
 ## Unit 1: Transparency
 
 - Introduction: What is transparency?—Phil Foster
-- Case study: Buffer (topic TBD)—Jordan Morgan
+- Case study: Buffer (encoruaging open behaviors)—Jordan Morgan
 - Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
 - Exercise: {TBD}—MaryJo Burchard
-- Exercise: 
+- Exercise: {TBD}—Sam Knuth
 
 ## Unit 2: Inclusivity
 
 - Introduction: What is inclusivity?—Flavio Percoco Premoli
 - Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander
 - Case study: Mozilla (initiating diversity and inclusion research)—Emma Irwin
-- Case study: 
+- Case study: Red Hat (using the Open Organization Maturity model with an internal team)—Allison Matlack
 - Exercise: Creating your Bias Defense Checklist—Yev Bronshteyn
 - Exercise: Surfacing power relations through a privilege walk—Laura Hilliger
 
@@ -56,8 +56,9 @@
 - Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
 - Case study: OpenStreetMap (creating global community)—Heather Leson and Kate Chapman
+- Case study: Red Hat (buidling an effective mentoring community)—Michael Costello
 - Case study: CodeforAmerica (mobilizing volunteers and inspiring public servants)—Zoe Blumenfeld
-- Exercise: Buidling an effective mentoring network—Michael Costello
+- Exercise: 
 - Exercise: 
 
 ## Appendix
