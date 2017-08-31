@@ -47,7 +47,7 @@
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - Exercise: Identifying indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
-- Exercise: 
+- Exercise: Performing the collaborative dilemma—Gina Likins
 
 ## Unit 5: Community
 
