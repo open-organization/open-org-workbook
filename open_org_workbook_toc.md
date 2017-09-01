@@ -45,7 +45,6 @@
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
 - Case study: Microsoft (Demonstrating commitment to openness—Angela Robertson
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
-- Exercise: Identifying indicators of effective collaboration—Ron McFarland
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: Performing the collaborative dilemma—Gina Likins
 
