@@ -8,7 +8,7 @@
 ## Getting Started
 
 - Enacting change management at scale—Jen Kelchner and Sam Knuth
-- The value of participatory exercises—Laura Hilliger
+- Getting started with the exercises in this book—Laura Hilliger
 
 ## Unit 1: Transparency
 
@@ -40,10 +40,10 @@
 ## Unit 4: Collaboration
 
 - Introduction: What is collaboration?—Heidi Hess von Ludewig
+- Case study: metasfresh (Collaboration at the core of professional development)—Mark Krake
 - Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
-- Case study: metasfresh (Shaping open leaders through Fit4Leadership program)—Mark Krake
 - Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
-- Case study: Microsoft (Demonstrating commitment to openness—Angela Robertson
+- Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: Performing the collaborative dilemma—Gina Likins
