@@ -25,6 +25,7 @@ Want to connect with an organization already on the list and compose a relevant 
 - GitHub—@jhibbets (sent invite)
 - Google—@jhibbets (sent invite)
 - Greenpeace—@laurahilliger
+- Credit Karma—@semioticrobotic
 - Harvard University–@pdurbin
 - Linux Foundation—@semioticrobotic
 - metasfresh—@semioticrobotic
@@ -61,5 +62,5 @@ Each case study should answer (at minimum) the following questions:
 Each **exercise** should include specific implementation details such as:
 
 - Estimated time to complete (e.g., 30 minutes, 4 months, etc.)
-- Skill level (e.g., Beginner, Intermediate, Adavanced)
-- Target behaviors (e.g., selected behavioral language from the Maturity Model)
+- Materials necessary (e.g., notecards, chairs, pens, computers, etc.)
+- Exercise type (e.g., introduction, reflection, behavior change, etc.)

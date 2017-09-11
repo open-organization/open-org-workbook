@@ -25,6 +25,7 @@
 - Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander
 - Case study: Mozilla (initiating diversity and inclusion research)—Emma Irwin
 - Case study: Red Hat (using the Open Organization Maturity model with an internal team)—Allison Matlack
+- Case study: Matson Navigation (balancing agility and consensus)—Peter Weis
 - Exercise: Creating your Bias Defense Checklist—Yev Bronshteyn
 - Exercise: Surfacing power relations through a privilege walk—Laura Hilliger
 
