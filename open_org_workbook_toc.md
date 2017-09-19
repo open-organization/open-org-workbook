@@ -34,6 +34,7 @@
 - Introduction: 
 - Case study: Accenture and Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: Discourse (better feedback through complaint-driven development)—Erlend Sogge Heggen
+- Case study: University of Alabama (crowdsourcing the IT roadmap)—Curt Carver
 - Case study: Red Hat (enhancing agility by fostering trusting relationships)—Deven Phillips
 - Exercise: Discovering adaptability profiles—Jen Kelchner
 - Exercise: 
@@ -48,6 +49,7 @@
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: Performing the collaborative dilemma—Gina Likins
+- Exercise: Having conversations from a place of learning—Jen Kelchner
 
 ## Unit 5: Community
 
