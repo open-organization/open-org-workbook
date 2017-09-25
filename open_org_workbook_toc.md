@@ -17,7 +17,7 @@
 - Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
 - Exercise: {TBD}—MaryJo Burchard
-- Exercise: {TBD}—Sam Knuth
+- Exercise: Three-step process for more transparent decisions—Sam Knuth
 
 ## Unit 2: Inclusivity
 
@@ -34,10 +34,10 @@
 - Introduction: 
 - Case study: Accenture and Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: Discourse (better feedback through complaint-driven development)—Erlend Sogge Heggen
-- Case study: University of Alabama (crowdsourcing the IT roadmap)—Curt Carver
+- Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver
 - Case study: Red Hat (enhancing agility by fostering trusting relationships)—Deven Phillips
 - Exercise: Discovering adaptability profiles—Jen Kelchner
-- Exercise: 
+- Exercise: A new approach to SWOT analysis—Jim Hall
 
 ## Unit 4: Collaboration
 
@@ -60,10 +60,11 @@
 - Case study: OpenStreetMap (creating global community)—Heather Leson and Kate Chapman
 - Case study: Red Hat (buidling an effective mentoring community)—Michael Costello
 - Case study: CodeforAmerica (mobilizing volunteers and inspiring public servants)—Zoe Blumenfeld
-- Exercise: 
+- Exercise: Organizing your event like an unconference—Jason Hibbets
 - Exercise: 
 
 ## Appendix
 
+- An Open Organization Crossword
 - The Open Organization Definition—Open Organization Ambassadors
 - The Open Organization Maturity Model—Open Organization Ambassadors
