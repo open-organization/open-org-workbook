@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-- Enacting change management at scale—Jen Kelchner and Sam Knuth
+- Enacting change management at scale—Jen Kelchner & Sam Knuth
 - Getting started with the exercises in this book—Laura Hilliger
 
 ## Unit 1: Transparency
@@ -16,7 +16,7 @@
 - Case study: Buffer (encoruaging open behaviors)—Jordan Morgan
 - Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
-- Exercise: {TBD}—MaryJo Burchard
+- Exercise: Asking open questions—Chad Littlefield & Jen Kelchner
 - Exercise: Three-step process for more transparent decisions—Sam Knuth
 
 ## Unit 2: Inclusivity
@@ -32,11 +32,11 @@
 ## Unit 3: Adaptability
 
 - Introduction: 
-- Case study: Accenture and Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
+- Case study: Accenture & Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: Discourse (better feedback through complaint-driven development)—Erlend Sogge Heggen
 - Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver
 - Case study: Red Hat (enhancing agility by fostering trusting relationships)—Deven Phillips
-- Exercise: Discovering adaptability profiles—Jen Kelchner
+- Exercise: Discovering adaptability profiles—MaryJo Burchard
 - Exercise: A new approach to SWOT analysis—Jim Hall
 
 ## Unit 4: Collaboration
@@ -49,7 +49,6 @@
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - Exercise: Fostering healthy debate—Rebecca Fernandez
 - Exercise: Performing the collaborative dilemma—Gina Likins
-- Exercise: Having conversations from a place of learning—Jen Kelchner
 
 ## Unit 5: Community
 
@@ -57,7 +56,7 @@
 - Case study: Slalom (scaling open culture while growing)—Jen Kelchner
 - Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
-- Case study: OpenStreetMap (creating global community)—Heather Leson and Kate Chapman
+- Case study: OpenStreetMap (creating global community)—Heather Leson & Kate Chapman
 - Case study: Red Hat (buidling an effective mentoring community)—Michael Costello
 - Case study: CodeforAmerica (mobilizing volunteers and inspiring public servants)—Zoe Blumenfeld
 - Exercise: Organizing your event like an unconference—Jason Hibbets
