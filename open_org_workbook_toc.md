@@ -43,7 +43,6 @@
 - Introduction: What is collaboration?—Heidi Hess von Ludewig
 - Case study: metasfresh (Collaboration at the core of professional development)—Mark Krake
 - Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
-- Case study: Yahoo! (Building an internal collaboration platform)—Gil Yehuda
 - Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - Exercise: Fostering healthy debate—Rebecca Fernandez
