@@ -58,7 +58,7 @@
 - Case study: Red Hat (buidling an effective mentoring community)—Michael Costello
 - Case study: CodeforAmerica (mobilizing volunteers and inspiring public servants)—Zoe Blumenfeld
 - Exercise: Organizing your event like an unconference—Jason Hibbets
-- Exercise: 
+- Exercise: {TBD}—Jono Bacon
 
 ## Appendix
 
