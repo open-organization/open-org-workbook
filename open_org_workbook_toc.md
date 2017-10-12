@@ -37,6 +37,7 @@
 - Case study: Red Hat (enhancing agility by fostering trusting relationships)—Deven Phillips
 - Exercise: Discovering adaptability profiles—MaryJo Burchard
 - Exercise: A new approach to SWOT analysis—Jim Hall
+- Exercise: Establish a flexible and adaptable work plan—Jim Hall
 
 ## Unit 4: Collaboration
 
