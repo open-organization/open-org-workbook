@@ -17,7 +17,7 @@
 - Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
 - Exercise: Asking open questions—Chad Littlefield & Jen Kelchner
-- Exercise: Three-step process for more transparent decisions—Sam Knuth
+- Exercise: A three-step process for more transparent decisions—Sam Knuth
 
 ## Unit 2: Inclusivity
 
@@ -30,7 +30,7 @@
 
 ## Unit 3: Adaptability
 
-- Introduction: 
+- Introduction: What is adaptability?—Matt Takane
 - Case study: Accenture & Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: Discourse (better feedback through complaint-driven development)—Erlend Sogge Heggen
 - Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver
@@ -46,7 +46,7 @@
 - Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
 - Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
-- Exercise: Fostering healthy debate—Rebecca Fernandez
+- Exercise: A seven-step plan for engaging Mr. Grumpy—Rebecca Fernandez
 - Exercise: Performing the collaborative dilemma—Gina Likins
 
 ## Unit 5: Community
