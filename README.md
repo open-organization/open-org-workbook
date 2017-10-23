@@ -33,7 +33,7 @@ Want to play one or more of these important roles? Check the book's [existing ta
 
 ~~August 8—Project announcement~~  
 ~~August 25—Table of contents freeze~~  
-October 6—Content freeze  
+~~October 6—Content freeze~~  
 November 10—Editing freeze (final freeze)  
 November 27—Soft launch  
 December 4—Formal launch

@@ -34,7 +34,6 @@
 - Case study: Accenture & Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - Case study: Discourse (better feedback through complaint-driven development)—Erlend Sogge Heggen
 - Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver
-- Case study: Red Hat (enhancing agility by fostering trusting relationships)—Deven Phillips
 - Exercise: Discovering adaptability profiles—MaryJo Burchard
 - Exercise: A new approach to SWOT analysis—Jim Hall
 - Exercise: Establish a flexible and adaptable work plan—Jim Hall
