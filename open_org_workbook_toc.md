@@ -16,7 +16,7 @@
 
 - Introduction: What is transparency?—Phil Foster
 - _Case study: Buffer (encoruaging open behaviors)—Jordan Morgan_
-- Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin
+- _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
 - Exercise: Asking open questions—Chad Littlefield & Jen Kelchner
 - _Exercise: A three-step process for more transparent decisions—Sam Knuth_
@@ -46,7 +46,7 @@
 - _Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson_
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - _Exercise: A seven-step plan for engaging Mr. Grumpy—Rebecca Fernandez_
-- Exercise: Performing the collaborative dilemma—Gina Likins
+- _Exercise: Performing the collaborative dilemma—Gina Likins_
 
 ## Unit 5: Community
 
