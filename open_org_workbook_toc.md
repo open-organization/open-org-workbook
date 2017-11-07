@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-- Enacting change management at scale—Jen Kelchner & Sam Knuth
+- Are you ready for open?—Jen Kelchner & Sam Knuth
 - _Getting started with the exercises in this book—Laura Hilliger_
 
 ## Unit 1: Transparency
@@ -18,8 +18,8 @@
 - _Case study: Buffer (encoruaging open behaviors)—Jordan Morgan_
 - _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
 - Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
-- Exercise: Asking open questions—Chad Littlefield & Jen Kelchner
 - _Exercise: A three-step process for more transparent decisions—Sam Knuth_
+- _Exercise: Having transparent conversations—MaryJo Burchard_
 
 ## Unit 2: Inclusivity
 
