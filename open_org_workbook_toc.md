@@ -27,12 +27,14 @@
 - _Case study: Red Hat (creating an inclusive meritocracy)—DeLisa Alexander_
 - _Case study: Matson Navigation (balancing agility and consensus)—Peter Weis_
 - _Exercise: Creating your Bias Defense Checklist—Yev Bronshteyn_
-- Exercise: Surfacing power relations through a privilege walk—Laura Hilliger
+- _Exercise: Taking steps toward greater inclusivity—Laura Hilliger_
+- _Exercise: Reflecting on levels of listening—Laura Hilliger_
+- _Exercise: Being intentional about inclusivity—Laura Hilliger_
 
 ## Unit 3: Adaptability
 
 - Introduction: What is adaptability?—Matt Takane
-- Case study: Accenture & Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
+- Case study: Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - _Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver_
 - _Exercise: Discovering adaptability profiles—MaryJo Burchard_
 - _Exercise: A new approach to SWOT analysis—Jim Hall_
@@ -55,8 +57,7 @@
 - Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
 - Case study: OpenStreetMap (creating global community)—Heather Leson & Kate Chapman
-- Case study: Red Hat (buidling an effective mentoring community)—Michael Costello
-- Case study: CodeforAmerica (mobilizing volunteers and inspiring public servants)—Zoe Blumenfeld
+- Case study: CodeforAmerica (writing our principles and values, together)—Jennifer Pahlka
 - Exercise: Organizing your event like an unconference—Jason Hibbets
 - Exercise: {TBD}—Jono Bacon
 
