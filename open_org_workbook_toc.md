@@ -59,7 +59,6 @@
 - Case study: OpenStreetMap (creating global community)—Heather Leson & Kate Chapman
 - Case study: CodeforAmerica (writing our principles and values, together)—Jennifer Pahlka
 - Exercise: Organizing your event like an unconference—Jason Hibbets
-- Exercise: {TBD}—Jono Bacon
 
 ## Appendix
 
