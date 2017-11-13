@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-- Are you ready for open?—Jen Kelchner & Sam Knuth
+- _Are you ready for open?—Jen Kelchner & Sam Knuth_
 - _Getting started with the exercises in this book—Laura Hilliger_
 
 ## Unit 1: Transparency
@@ -38,7 +38,6 @@
 - _Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver_
 - _Exercise: Discovering adaptability profiles—MaryJo Burchard_
 - _Exercise: A new approach to SWOT analysis—Jim Hall_
-- Exercise: Establish a flexible and adaptable work plan—Jim Hall
 
 ## Unit 4: Collaboration
 
