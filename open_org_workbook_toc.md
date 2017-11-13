@@ -53,10 +53,10 @@
 
 - Introduction: What is community?—Heidi Hess von Ludewig
 - _Case study: Slalom (scaling open culture while growing)—Jen Kelchner_
-- Case study: Roam (creating community through co-working)—Jen Kelchner
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
 - Case study: OpenStreetMap (creating global community)—Heather Leson & Kate Chapman
 - Case study: CodeforAmerica (writing our principles and values, together)—Jennifer Pahlka
+- _Case study: Roam (creating community through collaborative spaces)—Jen Kelchner_
 - Exercise: Organizing your event like an unconference—Jason Hibbets
 
 ## Appendix
