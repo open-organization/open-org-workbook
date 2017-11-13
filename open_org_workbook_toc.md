@@ -43,7 +43,7 @@
 
 - Introduction: What is collaboration?—Heidi Hess von Ludewig
 - _Case study: metasfresh (Collaboration at the core of professional development)—Mark Krake_
-- Case study: Enhancing collaboration with agile methods—Jimmy Sjölund
+- _Case study: How learning to collaborate led to customer success—Jimmy Sjölund_
 - _Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson_
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - _Exercise: A seven-step plan for engaging Mr. Grumpy—Rebecca Fernandez_
