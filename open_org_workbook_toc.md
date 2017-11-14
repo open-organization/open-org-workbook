@@ -5,7 +5,7 @@
 ## Front Matter
 
 - Preface—Bryan Behrenshausen
-- Introduction—Jim Whitehurst
+- _Introduction—Jim Whitehurst_
 
 ## Getting Started
 
