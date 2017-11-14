@@ -48,18 +48,18 @@
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - _Exercise: A seven-step plan for engaging Mr. Grumpy—Rebecca Fernandez_
 - _Exercise: Performing the collaborative dilemma—Gina Likins_
+- _Exercise: Optimizing for collaboration—Jono Bacon_
 
 ## Unit 5: Community
 
 - Introduction: What is community?—Heidi Hess von Ludewig
 - _Case study: Slalom (Maintaining community while growing)—Jen Kelchner_
-- Case study: Dell EMC (Building community to stay on the cutting edge)—Jonas Rosland
+- _Case study: Dell Technologies (Building community to stay on the cutting edge)—Jonas Rosland_
 - Case study: CodeforAmerica (Writing our principles and values, together)—Jennifer Pahlka
 - _Case study: Roam (Curating community through collaborative spaces)—Jen Kelchner_
 - _Case study: OpenStreetMap (mapping community)—Heather Leson & Kate Chapman_
 - Exercise: Imagining an open community—Heidi Ellis
 - Exercise: Organizing your event like an unconference—Jason Hibbets
-- Exercise: Running a structured workshop—Jono Bacon
 
 ## Appendix
 
