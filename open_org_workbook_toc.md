@@ -52,10 +52,10 @@
 ## Unit 5: Community
 
 - Introduction: What is community?—Heidi Hess von Ludewig
-- _Case study: Slalom (scaling open culture while growing)—Jen Kelchner_
-- Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
-- Case study: CodeforAmerica (writing our principles and values, together)—Jennifer Pahlka
-- _Case study: Roam (creating community through collaborative spaces)—Jen Kelchner_
+- _Case study: Slalom (Maintaining community while growing)—Jen Kelchner_
+- Case study: Dell EMC (Building community to stay on the cutting edge)—Jonas Rosland
+- Case study: CodeforAmerica (Writing our principles and values, together)—Jennifer Pahlka
+- _Case study: Roam (Curating community through collaborative spaces)—Jen Kelchner_
 - _Case study: OpenStreetMap (mapping community)—Heather Leson & Kate Chapman_
 - Exercise: Imagining an open community—Heidi Ellis
 - Exercise: Organizing your event like an unconference—Jason Hibbets
