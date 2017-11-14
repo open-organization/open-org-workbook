@@ -43,7 +43,7 @@
 
 - Introduction: What is collaboration?—Heidi Hess von Ludewig
 - _Case study: metasfresh (Collaboration at the core of professional development)—Mark Krake_
-- _Case study: How learning to collaborate led to customer success—Jimmy Sjölund_
+- _Case study: Basefarm (How learning to collaborate led to customer success)—Jimmy Sjölund_
 - _Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson_
 - Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
 - _Exercise: A seven-step plan for engaging Mr. Grumpy—Rebecca Fernandez_
@@ -54,10 +54,12 @@
 - Introduction: What is community?—Heidi Hess von Ludewig
 - _Case study: Slalom (scaling open culture while growing)—Jen Kelchner_
 - Case study: Dell EMC (changing customer perceptions through community engagement)—Jonas Rosland
-- Case study: OpenStreetMap (creating global community)—Heather Leson & Kate Chapman
 - Case study: CodeforAmerica (writing our principles and values, together)—Jennifer Pahlka
 - _Case study: Roam (creating community through collaborative spaces)—Jen Kelchner_
+- _Case study: OpenStreetMap (mapping community)—Heather Leson & Kate Chapman_
+- Exercise: Imagining an open community—Heidi Ellis
 - Exercise: Organizing your event like an unconference—Jason Hibbets
+- Exercise: Running a structured workshop—Jono Bacon
 
 ## Appendix
 
