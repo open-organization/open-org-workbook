@@ -17,7 +17,7 @@
 - Introduction: What is transparency?—Phil Foster
 - _Case study: Buffer (encoruaging open behaviors)—Jordan Morgan_
 - _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
-- Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin
+- _Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin_
 - _Exercise: A three-step process for more transparent decisions—Sam Knuth_
 - _Exercise: Having transparent conversations—MaryJo Burchard_
 
