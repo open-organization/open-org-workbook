@@ -33,7 +33,7 @@
 
 ## Unit 3: Adaptability
 
-- Introduction: What is adaptability?—Matt Takane
+- _Introduction: What is adaptability?—Matt Takane_
 - Case study: Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
 - _Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver_
 - _Exercise: Discovering adaptability profiles—MaryJo Burchard_
