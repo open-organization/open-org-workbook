@@ -45,7 +45,7 @@
 - _Case study: metasfresh (Collaboration at the core of professional development)—Mark Krake_
 - _Case study: Basefarm (How learning to collaborate led to customer success)—Jimmy Sjölund_
 - _Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson_
-- Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger
+- _Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger_
 - _Exercise: A seven-step plan for engaging Mr. Grumpy—Rebecca Fernandez_
 - _Exercise: Performing the collaborative dilemma—Gina Likins_
 - _Exercise: Optimizing for collaboration—Jono Bacon_
