@@ -52,13 +52,12 @@
 
 ## Unit 5: Community
 
-- Introduction: What is community?—Heidi Hess von Ludewig
+- _Introduction: What is community?—Heidi Hess von Ludewig_
 - _Case study: Roam (Curating community through collaborative spaces)—Jen Kelchner_
 - _Case study: OpenStreetMap (mapping community)—Heather Leson & Kate Chapman_
 - _Case study: Dell Technologies (Building community to stay on the cutting edge)—Jonas Rosland_
 - _Case study: Slalom (Maintaining community while growing)—Jen Kelchner_
-- Case study: CodeforAmerica (Writing our principles and values, together)—Jennifer Pahlka
-
+- _Case study: CodeforAmerica (Writing our principles and values, together)—Jennifer Pahlka_
 - _Exercise: Imagining an open community—Heidi Ellis_
 - Exercise: Organizing your event like an unconference—Jason Hibbets
 
