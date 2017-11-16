@@ -34,10 +34,11 @@
 ## Unit 3: Adaptability
 
 - _Introduction: What is adaptability?—Matt Takane_
-- Case study: Red Hat (adaptable approaches to consulting)—Dereck Vanlandingham
+- Case study: State government (adaptable approaches to consulting)—Dereck Vanlandingham
 - _Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver_
-- _Exercise: Discovering adaptability profiles—MaryJo Burchard_
-- _Exercise: A new approach to SWOT analysis—Jim Hall_
+- _Exercise: Assessing threats and opportunities—Jim Hall_
+- _Exercise: Avoiding project death by hand-off—Catherine Louis_
+- _Exercise: Utilizing pausers and pouncers—MaryJo Burchard_
 
 ## Unit 4: Collaboration
 
