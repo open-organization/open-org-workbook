@@ -34,7 +34,7 @@
 ## Unit 3: Adaptability
 
 - _Introduction: What is adaptability?—Matt Takane_
-- Case study: State government (adaptable approaches to consulting)—Dereck Vanlandingham
+- _Case study: State government (adaptable approaches to consulting)—Dereck Vanlandingham_
 - _Case study: University of Alabama (crowdsourcing IT priorities)—Curt Carver_
 - _Exercise: Assessing threats and opportunities—Jim Hall_
 - _Exercise: Avoiding project death by hand-off—Catherine Louis_
@@ -60,7 +60,7 @@
 - _Case study: Slalom (Maintaining community while growing)—Jen Kelchner_
 - _Case study: CodeforAmerica (Writing our principles and values, together)—Jennifer Pahlka_
 - _Exercise: Imagining an open community—Heidi Ellis_
-- Exercise: Organizing your event like an unconference—Jason Hibbets
+- _Exercise: Tapping the power of community—Jason Hibbets_
 
 ## Appendix
 
