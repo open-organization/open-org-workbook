@@ -18,7 +18,7 @@
 - _Case study: Buffer (encoruaging open behaviors)—Jordan Morgan_
 - _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
 - _Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin_
-- _Exercise: A three-step process for more transparent decisions—Sam Knuth_
+- _Exercise: Making more transparent decisions—Sam Knuth_
 - _Exercise: Having transparent conversations—MaryJo Burchard_
 
 ## Unit 2: Inclusivity
@@ -39,6 +39,7 @@
 - _Exercise: Assessing threats and opportunities—Jim Hall_
 - _Exercise: Avoiding project death by hand-off—Catherine Louis_
 - _Exercise: Utilizing pausers and pouncers—MaryJo Burchard_
+- _Exercise: Building an adaptable work plan—Jim Hall_
 
 ## Unit 4: Collaboration
 
@@ -47,7 +48,7 @@
 - _Case study: Basefarm (How learning to collaborate led to customer success)—Jimmy Sjölund_
 - _Case study: Microsoft (Demonstrating commitment to openness)—Angela Robertson_
 - _Case study: Red Hat (Inner sourcing changes to IT services)—Tom Benninger_
-- _Exercise: A seven-step plan for engaging Mr. Grumpy—Rebecca Fernandez_
+- _Exercise: Engaging Mr. Grumpy—Rebecca Fernandez_
 - _Exercise: Performing the collaborative dilemma—Gina Likins_
 - _Exercise: Optimizing for collaboration—Jono Bacon_
 
