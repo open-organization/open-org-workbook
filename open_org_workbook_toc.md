@@ -4,7 +4,7 @@
 
 - Chapter titles _in italics_ have been typeset in the [book's galley proofs](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_galleys.pdf) and are ready for review there.
 
-- Chapter titles appended with someone's @user_name or —INITIALS are currently undergoing proofing.
+- Chapter titles appended with someone's @user_name or INITIALS are currently undergoing proofing.
 
 - Chapter titles that are ~~struck through~~ have been successfully typeset and copyedited.
 
@@ -33,7 +33,7 @@
 
 - _Introduction: What is inclusivity?—Flavio Percoco Premoli_—LWOLFE
 - _Case study: Red Hat (A community-powered approach to diversity and inclusion)—DeLisa Alexander_
-- _Case study: Matson Navigation (Balancing agility and consensus)—Peter Weis_—@semioticrobotic
+- ~~_Case study: Matson Navigation (Balancing agility and consensus)—Peter Weis_—@semioticrobotic~~
 - _Exercise: A checklist for unbiased decisions—Yev Bronshteyn_
 - _Exercise: Taking steps toward greater inclusivity—Laura Hilliger_
 - _Exercise: Reflecting on levels of listening—Laura Hilliger_
