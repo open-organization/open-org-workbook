@@ -11,11 +11,11 @@ Chapter titles appended with someone's @user_name or —INITIALS are currently u
 ## Front Matter
 
 - Preface—Bryan Behrenshausen
-- _Introduction—Jim Whitehurst_
+- _Introduction—Jim Whitehurst_—LWOLFE
 
 ## Getting Started
 
-- _Getting started with change: Are you ready for open?—Jen Kelchner & Sam Knuth_
+- _Getting started with change: Are you ready for open?—Jen Kelchner & Sam Knuth_—LWOLFE
 - _Getting started with the exercises in this book—Laura Hilliger_
 
 ## Unit 1: Transparency
@@ -29,7 +29,7 @@ Chapter titles appended with someone's @user_name or —INITIALS are currently u
 
 ## Unit 2: Inclusivity
 
-- _Introduction: What is inclusivity?—Flavio Percoco Premoli_
+- _Introduction: What is inclusivity?—Flavio Percoco Premoli_—LWOLFE
 - _Case study: Red Hat (A community-powered approach to diversity and inclusion)—DeLisa Alexander_
 - _Case study: Matson Navigation (Balancing agility and consensus)—Peter Weis_
 - _Exercise: A checklist for unbiased decisions—Yev Bronshteyn_
