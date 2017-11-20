@@ -1,12 +1,14 @@
 # The Open Organization Workbook Table of Contents
 
-Chapter titles _in italics_ have been typeset in the [book's galley proofs](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_galleys.pdf) and are ready for review there.
+## Working Notes
 
-Chapter titles appended with someone's @user_name or —INITIALS are currently undergoing proofing.
+- Chapter titles _in italics_ have been typeset in the [book's galley proofs](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_galleys.pdf) and are ready for review there.
 
+- Chapter titles appended with someone's @user_name or —INITIALS are currently undergoing proofing.
+
+- Chapter titles that are ~~struck through~~ have been successfully typeset and copyedited.
 
 ----------
-
 
 ## Front Matter
 
@@ -20,7 +22,7 @@ Chapter titles appended with someone's @user_name or —INITIALS are currently u
 
 ## Unit 1: Transparency
 
-- Introduction: What is transparency?—Phil Foster
+- _Introduction: What is transparency?—Phil Foster_
 - _Case study: Buffer (How working transparently united our engineers)—Jordan Morgan_
 - _Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin_
 - _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
@@ -31,7 +33,7 @@ Chapter titles appended with someone's @user_name or —INITIALS are currently u
 
 - _Introduction: What is inclusivity?—Flavio Percoco Premoli_—LWOLFE
 - _Case study: Red Hat (A community-powered approach to diversity and inclusion)—DeLisa Alexander_
-- _Case study: Matson Navigation (Balancing agility and consensus)—Peter Weis_
+- _Case study: Matson Navigation (Balancing agility and consensus)—Peter Weis_—@semioticrobotic
 - _Exercise: A checklist for unbiased decisions—Yev Bronshteyn_
 - _Exercise: Taking steps toward greater inclusivity—Laura Hilliger_
 - _Exercise: Reflecting on levels of listening—Laura Hilliger_
@@ -43,7 +45,7 @@ Chapter titles appended with someone's @user_name or —INITIALS are currently u
 - _Case study: University of Alabama (Crowdsourcing the way to a more flexible strategic plan)—Curt Carver_
 - _Case study: State government (Building an organization that can adapt rapidly to change)—Dereck Vanlandingham_
 - _Exercise: Assessing threats and opportunities—Jim Hall_
-- _Exercise: Avoiding project death by hand-off—Catherine Louis_
+- _Exercise: Avoiding project death by hand-off—Catherine Louis_—@semioticrobotic
 - _Exercise: Utilizing pausers and pouncers—MaryJo Burchard_
 - _Exercise: Building an adaptable work plan—Jim Hall_
 
