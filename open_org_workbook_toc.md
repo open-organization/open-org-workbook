@@ -1,10 +1,12 @@
 # The Open Organization Workbook Table of Contents
 
-**Notes:**
+Chapter titles _in italics_ have been typeset in the [book's galley proofs](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_galleys.pdf) and are ready for review there.
 
-- Chapter titles _in italics_ have been typeset in the [book's galley proofs](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_galleys.pdf) and are ready for review there.
+Chapter titles appended with someone's @user_name or —INITIALS are currently undergoing proofing.
 
-- Chapter titles appended with someone's @user_name or —INITIALS are currently undergoing proofing.
+
+----------
+
 
 ## Front Matter
 
