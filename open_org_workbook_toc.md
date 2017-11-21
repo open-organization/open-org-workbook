@@ -22,8 +22,8 @@
 
 ## Unit 1: Transparency
 
-- _Introduction: What is transparency?—Phil Foster_ mburke@redhat.com
-- _Case study: Buffer (How working transparently united our engineers)—Jordan Morgan_ mburke@redhat.com
+- _Introduction: What is transparency?—Phil Foster_—MBURKE
+- _Case study: Buffer (How working transparently united our engineers)—Jordan Morgan_—MBURKE
 - _Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin_
 - _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
 - _Exercise: Making more transparent decisions—Sam Knuth_
@@ -45,7 +45,7 @@
 - _Case study: University of Alabama (Crowdsourcing the way to a more flexible strategic plan)—Curt Carver_
 - _Case study: State government (Building an organization that can adapt rapidly to change)—Dereck Vanlandingham_
 - _Exercise: Assessing threats and opportunities—Jim Hall_
-- _Exercise: Avoiding project death by hand-off—Catherine Louis_—@semioticrobotic
+- ~~_Exercise: Avoiding project death by hand-off—Catherine Louis_—@semioticrobotic~~
 - _Exercise: Utilizing pausers and pouncers—MaryJo Burchard_
 - _Exercise: Building an adaptable work plan—Jim Hall_
 
