@@ -22,8 +22,8 @@
 
 ## Unit 1: Transparency
 
-- _Introduction: What is transparency?—Phil Foster_
-- _Case study: Buffer (How working transparently united our engineers)—Jordan Morgan_
+- _Introduction: What is transparency?—Phil Foster_ mburke@redhat.com
+- _Case study: Buffer (How working transparently united our engineers)—Jordan Morgan_ mburke@redhat.com
 - _Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin_
 - _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
 - _Exercise: Making more transparent decisions—Sam Knuth_
