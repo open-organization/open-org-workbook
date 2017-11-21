@@ -13,7 +13,7 @@
 ## Front Matter
 
 - Preface—Bryan Behrenshausen
-- _Introduction—Jim Whitehurst_—LWOLFE
+- ~~_Introduction—Jim Whitehurst_—LWOLFE~~
 
 ## Getting Started
 
