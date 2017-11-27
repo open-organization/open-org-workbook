@@ -18,7 +18,7 @@
 ## Getting Started
 
 - _Getting started with change: Are you ready for open?—Jen Kelchner & Sam Knuth_—LWOLFE
-- _Getting started with the exercises in this book—Laura Hilliger_
+- ~~_Getting started with the exercises in this book—Laura Hilliger_—@semioticrobotic~~
 
 ## Unit 1: Transparency
 
@@ -26,7 +26,7 @@
 - _Case study: Buffer (How working transparently united our engineers)—Jordan Morgan_—MBURKE
 - _Case study: Autodesk (dismantling silos through chat transparency)—Guy Martin_
 - _Case study: Harvard University Dataverse project (running a project transparently for better research outcomes)—Philip Durbin_
-- _Exercise: Making more transparent decisions—Sam Knuth_
+- _Exercise: Making more transparent decisions—Sam Knuth_—@semioticrobotic
 - _Exercise: Having transparent conversations—MaryJo Burchard_
 
 ## Unit 2: Inclusivity
@@ -47,7 +47,7 @@
 - _Exercise: Assessing threats and opportunities—Jim Hall_—@semioticrobotic
 - ~~_Exercise: Avoiding project death by hand-off—Catherine Louis_—@semioticrobotic~~
 - _Exercise: Utilizing pausers and pouncers—MaryJo Burchard_
-- _Exercise: Building an adaptable work plan—Jim Hall_—@semioticrobotic
+- ~~_Exercise: Building an adaptable work plan—Jim Hall_—@semioticrobotic~~
 
 ## Unit 4: Collaboration
 
