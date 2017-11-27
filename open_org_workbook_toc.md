@@ -52,7 +52,7 @@
 ## Unit 4: Collaboration
 
 - _Introduction: What is collaboration?—Heidi Hess von Ludewig_
-- _Case study: metasfresh (Collaboration at the core of professional development)—Mark Krake_
+- ~~_Case study: metasfresh (Collaboration at the core of professional development)—Mark Krake_—@HeidiHVL~~
 - _Case study: Basefarm (How learning to collaborate led to customer success)—Jimmy Sjölund_
 - _Case study: Microsoft (Encouraging collaboration when it isn't easy)—Angela Robertson_
 - _Case study: Red Hat (Better collaboration through inner source)—Tom Benninger_
