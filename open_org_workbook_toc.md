@@ -56,7 +56,7 @@
 - _Case study: Basefarm (How learning to collaborate led to customer success)—Jimmy Sjölund_
 - _Case study: Microsoft (Encouraging collaboration when it isn't easy)—Angela Robertson_
 - _Case study: Red Hat (Better collaboration through inner source)—Tom Benninger_
-- _Exercise: Engaging Mr. Grumpy—Rebecca Fernandez_
+- ~~_Exercise: Engaging Mr. Grumpy—Rebecca Fernandez_—@semioticrobotic~~
 - _Exercise: Performing the collaborative dilemma—Gina Likins_
 - _Exercise: Optimizing for collaboration—Jono Bacon_
 
