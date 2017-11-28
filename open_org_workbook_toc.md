@@ -43,7 +43,7 @@
 
 - _Introduction: What is adaptability?—Matt Takane_
 - _Case study: University of Alabama (Crowdsourcing the way to a more flexible strategic plan)—Curt Carver_
-- _Case study: State government (Building an organization that can adapt rapidly to change)—Dereck Vanlandingham_
+- _Case study: State government (Building an organization that can adapt rapidly to change)—Dereck Vanlandingham_—@semioticrobotic
 - _Exercise: Assessing threats and opportunities—Jim Hall_—@semioticrobotic
 - ~~_Exercise: Avoiding project death by hand-off—Catherine Louis_—@semioticrobotic~~
 - _Exercise: Utilizing pausers and pouncers—MaryJo Burchard_
