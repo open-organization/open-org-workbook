@@ -17,7 +17,7 @@
 
 ## Getting Started
 
-- _Getting started with change: Are you ready for open?—Jen Kelchner & Sam Knuth_—LWOLFE
+- ~~_Getting started with change: Are you ready for open?—Jen Kelchner & Sam Knuth_—LWOLFE~~
 - ~~_Getting started with the exercises in this book—Laura Hilliger_—@semioticrobotic~~
 
 ## Unit 1: Transparency
@@ -31,7 +31,7 @@
 
 ## Unit 2: Inclusivity
 
-- _Introduction: What is inclusivity?—Flavio Percoco Premoli_—LWOLFE
+- ~~_Introduction: What is inclusivity?—Flavio Percoco Premoli_—LWOLFE~~
 - _Case study: Red Hat (A community-powered approach to diversity and inclusion)—DeLisa Alexander_
 - ~~_Case study: Matson Navigation (Balancing agility and consensus)—Peter Weis_—@semioticrobotic~~
 - _Exercise: A checklist for unbiased decisions—Yev Bronshteyn_
