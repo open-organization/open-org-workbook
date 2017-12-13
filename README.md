@@ -1,39 +1,22 @@
 # The Open Organization Workbook
 
-This respository contains files related to _The Open Organization Workbook_, the forthcoming community-produced companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
+This respository contains files related to _The Open Organization Workbook_, a community-produced companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
 
 ## About the book
 
-_The Open Organization Workbook_ is the sixth book in [the _Open Organization_ book series](https://opensource.com/open-organization/resources/book-series) from Opensource.com. It speaks specifically to ways individuals, teams, and organizations can transform organizational cultures, and serves as a handbook-style resource people can use while they're undergoing culture change initiatives aimed at cultivating open environments.
+Organizations that embrace cultures of openness are more agile, accountable, and innovative. But how exactly can we build them?
 
-Divided into five units—each one pertaining to a different characteristic oultlined in [The Open Organization Definition](https://opensource.com/open-organization/resources/open-org-definition)—the book features three principal types of material: 
+In _The Open Organization Workbook_, more than 25 managers, leaders, consultants, and other practitioners answer that question with their favorite tips for building organizations that are more transparent, inclusive, adaptable, collaborative, and communal. They not only explain—in rich and useful detail—the processes and practices they recommend for architecting the organizations of the future, but also invite readers to follow along, participate, and experiment through a series of probing discussion questions and participatory activities.
 
-- **Introductions,** which elaborate the nature of a given open principle and explain its value for organizations that might adopt it
-- **Case studies,** accounts of various organizations enacting open values at scale
-- **Exercises,** activities teams can perform to better understand and practice open values at scale
+This workbook-style companion to The Open Organization (Harvard Business Review Press, 2015) features case studies of more than a dozen organizations—from start-ups to multinationals—working to leverage the power of openness. It also contains step-by-step instructions for building innovative teams.
 
-## Contributing
+It's a how-to guide for practicing openness at scale—required reading for anyone seeking to cultivate a more innovative and resilient organizational culture.
 
-We're developing this book according to the principles and processes outlined in the [Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework).
+## Repository contents
 
-So we're searching for:
+In this repository, please find:
 
-- **Writers**, contributors who can compose a chapter of the book
-- **Editors**, contributors who can offer writers advice on their work and compose end-of-chapter discussion questions for readers
-- **Proofers**, contributors who can help us polish a chapter of the book
-- **Connectors**, contributors who can point us in the direction of great open organization stories we might cover and include in the book
-
-Want to play one or more of these important roles? Check the book's [existing table of contents](https://github.com/open-organization-ambassadors/open-org-workbook/blob/master/open_org_workbook_toc.md), then do any of the following:
-
-- Open a [new issue](https://github.com/open-organization-ambassadors/open-org-workbook/issues) in this project repository and outline the work you think needs to be done
-- Select an already [open issue](https://github.com/open-organization-ambassadors/open-org-workbook/issues) in this repository and assign yourself to it
-- Send an email to <bbehrens@redhat.com> to learn more about pitching in
-
-## Project Timeline
-
-~~August 8—Project announcement~~  
-~~August 25—Table of contents freeze~~  
-~~October 6—Content freeze~~  
-~~November 10—Editing freeze (final freeze)~~  
-~~December 8—Soft launch~~  
-December 14—Formal launch  
+- The book's front cover (in .jpg and .pdf formats)
+- The book's full cover (in .jpg and .pdf formats)
+- A "binary" copy of the book (in .pdf format)
+- "Source code" for the book (in .odt format)
