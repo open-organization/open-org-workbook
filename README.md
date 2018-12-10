@@ -1,6 +1,6 @@
 # The Open Organization Workbook
 
-This respository contains files related to _The Open Organization Workbook_, a community-produced companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
+This respository contains files related to [_The Open Organization Workbook_](https://opensource.com/open-organization/resources/workbook), a community-produced companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
 
 ## About the book
 
