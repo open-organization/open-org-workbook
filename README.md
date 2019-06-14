@@ -20,3 +20,4 @@ In this repository, please find:
 - The book's full cover (in .jpg and .pdf formats)
 - A "binary" copy of the book (in .pdf format)
 - "Source code" for the book (in .odt format)
+- An e-book copy of the book (in .epub format) for reading on an e-reader, tablet, or other compatible device
